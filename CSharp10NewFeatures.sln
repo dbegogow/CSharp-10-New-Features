@@ -5,11 +5,13 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalUsings", "GlobalUsings\GlobalUsings.csproj", "{7A4D40A4-7ED3-4EC6-8755-CF744DA94F8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileScopedNamespaces", "FileScopedNamespaces\FileScopedNamespaces.csproj", "{E4A26675-FA36-42C7-94C0-BAD4FEEEA9E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileScopedNamespaces", "FileScopedNamespaces\FileScopedNamespaces.csproj", "{E4A26675-FA36-42C7-94C0-BAD4FEEEA9E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstantInterpolatedStrings", "ConstantInterpolatedStrings\ConstantInterpolatedStrings.csproj", "{F3DCE6B7-7423-4A74-A554-3C6DEC61A992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstantInterpolatedStrings", "ConstantInterpolatedStrings\ConstantInterpolatedStrings.csproj", "{F3DCE6B7-7423-4A74-A554-3C6DEC61A992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaImprovements", "LambdaImprovements\LambdaImprovements.csproj", "{A8588A7E-2BB2-4D07-8A62-8E3EA111412A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaImprovements", "LambdaImprovements\LambdaImprovements.csproj", "{A8588A7E-2BB2-4D07-8A62-8E3EA111412A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedPropertyPatterns", "ExtendedPropertyPatterns\ExtendedPropertyPatterns.csproj", "{20E6E672-9A8A-4B5C-A738-DBFE60237ACE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A8588A7E-2BB2-4D07-8A62-8E3EA111412A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8588A7E-2BB2-4D07-8A62-8E3EA111412A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8588A7E-2BB2-4D07-8A62-8E3EA111412A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E6E672-9A8A-4B5C-A738-DBFE60237ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E6E672-9A8A-4B5C-A738-DBFE60237ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E6E672-9A8A-4B5C-A738-DBFE60237ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E6E672-9A8A-4B5C-A738-DBFE60237ACE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
