@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedPropertyPatterns", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordStructs", "RecordStructs\RecordStructs.csproj", "{E9F90852-D1A0-4337-AE66-6F9DCBB02363}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordTypesSealToString", "RecordTypesSealToString\RecordTypesSealToString.csproj", "{9AF53C84-EC4D-417F-8D16-E40CB992DDFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{E9F90852-D1A0-4337-AE66-6F9DCBB02363}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9F90852-D1A0-4337-AE66-6F9DCBB02363}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9F90852-D1A0-4337-AE66-6F9DCBB02363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF53C84-EC4D-417F-8D16-E40CB992DDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF53C84-EC4D-417F-8D16-E40CB992DDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF53C84-EC4D-417F-8D16-E40CB992DDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF53C84-EC4D-417F-8D16-E40CB992DDFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
