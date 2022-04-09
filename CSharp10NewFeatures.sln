@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordTypesSealToString", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureTypesImprovements", "StructureTypesImprovements\StructureTypesImprovements.csproj", "{087A47AC-C2D2-47F3-A4AE-E41B3EDCA845}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssAndDeclarationInSameDesconstruction", "AssAndDeclarationInSameDesconstruction\AssAndDeclarationInSameDesconstruction.csproj", "{EF17C916-87F3-4230-8C8D-41753B51DBE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{087A47AC-C2D2-47F3-A4AE-E41B3EDCA845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{087A47AC-C2D2-47F3-A4AE-E41B3EDCA845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{087A47AC-C2D2-47F3-A4AE-E41B3EDCA845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF17C916-87F3-4230-8C8D-41753B51DBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF17C916-87F3-4230-8C8D-41753B51DBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF17C916-87F3-4230-8C8D-41753B51DBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF17C916-87F3-4230-8C8D-41753B51DBE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
