@@ -1,4 +1,4 @@
-﻿namespace RecordTypesSealToString;
+﻿Console.WriteLine(new Rectangle(50, 70).ToString());
 
 internal record Rectangle(int Height, int Width)
 {
