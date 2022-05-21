@@ -1,4 +1,4 @@
-﻿using AssAndDeclarationInSameDesconstruction;
+﻿using AssignmentAndDeclarationInSameDesconstruction;
 
 var rectangle = new Rectangle(200, 100);
 

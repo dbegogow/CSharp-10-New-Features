@@ -14,8 +14,8 @@ internal record Square : Rectangle
     {
     }
 
-    public override string ToString()
-    {
-        return $"Side length: {Height}";
-    }
+    //public override string ToString()
+    //{
+    //    return $"Side length: {Height}";
+    //}
 }

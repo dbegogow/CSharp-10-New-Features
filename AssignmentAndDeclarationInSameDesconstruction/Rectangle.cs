@@ -1,4 +1,4 @@
-﻿namespace AssAndDeclarationInSameDesconstruction;
+﻿namespace AssignmentAndDeclarationInSameDesconstruction;
 
 internal struct Rectangle
 {
